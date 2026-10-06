@@ -1,0 +1,5 @@
+# Datos internos: NO se publican (servidores, SQL, rutas, correos)
+data/indice.js
+data/indice_*.js
+_test*.html
+*.log
